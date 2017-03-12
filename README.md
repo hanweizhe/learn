@@ -12,10 +12,6 @@
 
 ----
 *斜体*
-
-
 ----
-![ss][zhihu]
-[zhihu]:https://github.com/hanweizhe/learn/raw/master/img/zhihu.png "知乎logo"
-
+[回到顶部](#百度网址)
 ----
