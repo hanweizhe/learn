@@ -18,6 +18,7 @@
 >>>>>manerchashu
 
 ----
-[回到顶部](#readme)
----
-![baidu](https://guthub.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif "baidulogo")
+![ss][zhihu]
+[zhihu]:https://github.com/hanweizhe/learn/raw/master/img/zhihu.png "知乎logo"
+
+----
