@@ -11,11 +11,8 @@
         * python
 
 ----
->shujujiegou
->>shu
->>>erchashu
->>>>pinghengerchashu
->>>>>manerchashu
+*斜体*
+
 
 ----
 ![ss][zhihu]
