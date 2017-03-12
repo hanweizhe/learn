@@ -18,8 +18,6 @@
 >>>>>manerchashu
 
 ----
-```Cpp
-public void main(){}//Cpp
-```
+[回到顶部](#readme)
 ---
 ![baidu](https://guthub.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif "baidulogo")
